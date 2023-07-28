@@ -1,0 +1,19 @@
+CPSC 304 Milestone 3 Timeline
+
+Tasks
+
+Table Creation Script – August 1
+-	Agent, Player, PlayerPlaysForTeam, Sponsor, Sponsors – Iris
+-	Club, Team, TeamHasStad, Stadium, TeamPlaysInGame, Game – Eleonora
+-	Coach, Coaches, GameIsInStage, Group, 1/8, ¼, ½, Final - Erika
+
+Queries – August 7
+-	Insert, delete, update – Erika
+-	Selection, projection, join, division – Iris
+-	Aggregations - Eleonora
+
+Table Population – August 8
+-	Eleonora
+
+Documentation – August 8
+-	Iris, Erika
