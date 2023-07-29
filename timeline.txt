@@ -7,13 +7,13 @@ Table Creation Script – August 1
 -	Club, Team, TeamHasStad, Stadium, TeamPlaysInGame, Game – Eleonora
 -	Coach, Coaches, GameIsInStage, Group, 1/8, ¼, ½, Final - Erika
 
+Table Population – August 1
+-	Eleonora
+
 Queries – August 7
 -	Insert, delete, update – Erika
 -	Selection, projection, join, division – Iris
 -	Aggregations - Eleonora
-
-Table Population – August 8
--	Eleonora
 
 Documentation – August 8
 -	Iris, Erika
